@@ -3,5 +3,6 @@ export const toFormatPrice = (numPrice: number): string => {
     style: 'currency',
     currency: 'UYU',
     maximumFractionDigits: 0,
+    minimumFractionDigits: 0,
   })
 }
