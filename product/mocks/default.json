@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Jagger Mainster",
+    "category": "tragos",
+    "description": "Un trago inigualable",
+    "image": "https://avatars.githubusercontent.com/u/55862658?v=4",
+    "price": 300
+  },
+  {
+    "id": "2",
+    "title": "IPA de la casa",
+    "category": "birra",
+    "description": "de la casa siempre es mejor",
+    "image": "https://avatars.githubusercontent.com/u/55862658?v=4",
+    "price": 200
+  },
+  {
+    "id": "3",
+    "title": "martini express",
+    "category": "tragos",
+    "description": "tragos unicos",
+    "image": "https://avatars.githubusercontent.com/u/55862658?v=4",
+    "price": 100
+  },
+  {
+    "id": "4",
+    "title": "burguer doble cheddar",
+    "category": "food",
+    "description": "que rico",
+    "image": "https://avatars.githubusercontent.com/u/55862658?v=4",
+    "price": 400
+  },
+  {
+    "id": "5",
+    "title": "blonde",
+    "category": "birra",
+    "description": "",
+    "image": "https://avatars.githubusercontent.com/u/55862658?v=4",
+    "price": 180
+  },
+  {
+    "id": "6",
+    "title": "Papas con cheddar",
+    "category": "food",
+    "description": "",
+    "image": "https://avatars.githubusercontent.com/u/55862658?v=4",
+    "price": 320
+  }
+]
